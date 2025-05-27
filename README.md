@@ -9,7 +9,7 @@ Express
 
 Cors
 
-Multer (para uploads) (se for adicionar upload)
+Multer (para uploads) 
 
 # Instalação
 Clone o repositório:
