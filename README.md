@@ -12,21 +12,21 @@ Cors
 Multer (para uploads) 
 
 # Instalação
-Clone o repositório:
+1. Clone o repositório:
 
-git clone https://github.com/rlsgabriella/projeto-back
+- git clone https://github.com/rlsgabriella/projeto-back.git
 
-- Acesse o diretório:
+2.  Acesse o diretório:
 
-cd projeto-back
+- cd projeto-back
 
-- Instale as dependências:
+3.  Instale as dependências:
 
 npm install
 
-- Inicie o servidor:
+4. Inicie o servidor:
 
-node index.js
+- node index.js
 
 
 | Método | Rota           | Descrição                           |
