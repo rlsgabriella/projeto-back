@@ -11,6 +11,24 @@ Cors
 
 Multer (para uploads) 
 
+---
+
+### 🔑 Configuração da API do Remove.bg
+
+Para utilizar a funcionalidade de remoção de fundo da imagem, é necessário obter uma chave de API gratuita ou paga no site da [Remove.bg](https://www.remove.bg/api).
+
+**Passos para obter a chave:**
+
+1. Acesse: [https://www.remove.bg/api](https://www.remove.bg/api)
+2. Clique em **"Get API Key"** e crie sua conta (ou faça login).
+3. Copie a chave de API gerada no seu painel.
+
+**Configuração no projeto:**
+
+1. Crie um arquivo `.env` na raiz do projeto.
+2. Adicione a seguinte variável ao arquivo:
+
+
 # Instalação
 1. Clone o repositório:
 
