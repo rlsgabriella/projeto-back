@@ -27,6 +27,7 @@ Para utilizar a funcionalidade de remoção de fundo da imagem, é necessário o
 
 1. Crie um arquivo `.env` na raiz do projeto.
 2. Adicione a seguinte variável ao arquivo:
+REMOVE_BG_API_KEY= sua_chave_aqui
 
 
 # Instalação
